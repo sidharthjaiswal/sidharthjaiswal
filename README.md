@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### Stats
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sidharthjaiswal&count_private=true&show_icons=true&theme=dark" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthjaiswal&langs_count=10&layout=compact&theme=dark" />
+ <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?sidharthjaiswal" frameborder="0"></iframe>
 </div>
