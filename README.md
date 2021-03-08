@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 I’m currently working on automation Testing
 - 👯 I’m looking to collaborate on web, fullstack projects
