@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on automation Testing
+- 🔭 I’m currently working on automation Testing. Full Stack Devlopments
 - 👯 I’m looking to collaborate on web, fullstack projects
 - 📫 How to reach me: sidhankit@gmail.com
 - 💬 Ask me for more advice/info about my repos if you're interested. Happy to answer them.
