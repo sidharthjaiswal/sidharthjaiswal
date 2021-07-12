@@ -25,3 +25,5 @@ Here are some ideas to get you started:
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sidharthjaiswal&count_private=true&show_icons=true&theme=dark" />
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthjaiswal&langs_count=10&layout=compact&theme=dark" />
 </div>
+
+<!--[![sidharthjaiswal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sidharthjaiswal)](https://github.com/sidharthjaiswal/github-readme-stats)-->
