@@ -1,9 +1,7 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on fullstack Developments
-- 👯 I’m looking to collaborate on web, fullstack projects
-- 📫 How to reach me: sidhankit@gmail.com
-- 💬 Ask me for more advice/info about my repos if you're interested. Happy to answer them.
+My name is Sidharth Jaiswal.
+I'm a passionate software engineer with a strong background in full-stack web development and a focus on creating elegant and efficient solutions. Experienced in designing and implementing scalable applications using modern technologies such as JavaScript, React, and Node.js. Committed to writing clean, well-documented code and following best practices. Enthusiastic about open-source contributions and actively involved in collaborating with the developer community. Constantly seeking new challenges to expand skills and deliver innovative software solutions.
 
 <!--
 **sidharthjaiswal/sidharthjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
