@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 -->
 
 ### Stats
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{sidharthjaiswal}/count.svg" alt="erfan visitor count" /></p>
-<br>
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sidharthjaiswal&count_private=true&show_icons=true&theme=dark" />
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthjaiswal&langs_count=10&layout=compact&theme=dark" />
